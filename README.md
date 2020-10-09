@@ -1,4 +1,4 @@
-## OpenFaaS &reg; - Serverless Functions Made Simple
+## OpenFaaS &reg; - Serverless Functions Made Simplee
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/openfaas/faas)](https://goreportcard.com/report/github.com/openfaas/faas)
 [![Build Status](https://travis-ci.com/openfaas/faas.svg?branch=master)](https://travis-ci.com/openfaas/faas)
